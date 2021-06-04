@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 import com.example.demovscodespring.entity.Teacher;
 
 /**
- * JpaRepository recebe na primeira posição o tipo (Contato) da classe que irar
+ * JpaRepository recebe na primeira posição o tipo (Teacher) da classe que irar
  * mapear, na segunda posição é o tipo da chave primária da entidade, que no
  * caso é Long.
  *
